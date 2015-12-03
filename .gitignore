@@ -1,0 +1,14 @@
+/web-app/WEB-INF/classes
+/prodDb.*
+/stacktrace.log
+/test/reports
+/logs
+/*.war
+/*.zip
+/plugin.xml
+/target*
+/web-app/plugins
+/plugins
+.project
+.classpath
+grails*
